@@ -36,3 +36,4 @@ If it doesnt work, create virtual environment in powershell:
 4. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 5. When all 9 squares are full, the game is over.
 6. Press R to restart, X to exit the game
+   
