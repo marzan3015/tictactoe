@@ -219,3 +219,4 @@ while True:  # main game loop
                 sys.exit()
                 # print(board)
     pygame.display.update()
+
