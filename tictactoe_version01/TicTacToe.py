@@ -7,7 +7,7 @@ import sys
 from pygame.locals import *
 import numpy as np
 # ------
-# constants
+# constants constants
 # -------
 width = 800
 height = 800
