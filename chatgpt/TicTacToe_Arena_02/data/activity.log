@@ -1,0 +1,74 @@
+2026-10-15 11:09:43,261 | INFO | Application launched.
+2026-10-15 11:09:57,934 | INFO | Selected pvai mode; requesting player names.
+2026-10-15 11:10:01,306 | INFO | Returned to main menu.
+2026-10-15 11:10:05,863 | INFO | Selected pvai mode; requesting player names.
+2026-10-15 11:10:13,140 | INFO | Player names entered: X=Marzan; O=AI.
+2026-10-15 11:10:13,140 | INFO | Started pvai match: X=Marzan, O=AI, difficulty=Medium.
+2026-10-15 11:10:15,013 | INFO | Move by Marzan (X) at cell 4.
+2026-10-15 11:10:17,028 | INFO | Move by AI (O) at cell 0.
+2026-10-15 11:10:20,112 | INFO | Move by Marzan (X) at cell 8.
+2026-10-15 11:10:22,112 | INFO | Move by AI (O) at cell 6.
+2026-10-15 11:10:25,389 | INFO | Move by Marzan (X) at cell 3.
+2026-10-15 11:10:27,405 | INFO | Move by AI (O) at cell 5.
+2026-10-15 11:10:28,740 | INFO | Move by Marzan (X) at cell 7.
+2026-10-15 11:10:30,744 | INFO | Move by AI (O) at cell 1.
+2026-10-15 11:10:31,794 | INFO | Move by Marzan (X) at cell 2.
+2026-10-15 11:10:31,806 | INFO | Match saved: mode=pvai, X=Marzan, O=AI, result=draw, moves=9
+2026-10-15 11:10:36,373 | INFO | Returned to main menu.
+2026-10-15 11:10:39,179 | INFO | Opened history screen.
+2026-10-15 11:10:44,235 | INFO | Returned to main menu.
+2026-10-15 11:10:45,421 | INFO | Opened leaderboard screen.
+2026-10-15 11:10:46,942 | INFO | Returned to main menu.
+2026-10-15 11:10:47,919 | INFO | Opened activity screen.
+2026-10-15 11:10:49,182 | INFO | Returned to main menu.
+2026-10-15 11:10:56,816 | INFO | Selected pvai mode; requesting player names.
+2026-10-15 11:10:58,460 | INFO | Returned to main menu.
+2026-10-15 11:11:01,759 | INFO | Opened history screen.
+2026-10-15 11:11:02,992 | INFO | Returned to main menu.
+2026-10-15 11:11:09,742 | INFO | Application closed.
+2026-10-15 11:11:59,147 | INFO | Application launched.
+2026-10-15 11:12:05,269 | INFO | Selected pvp mode; requesting player names.
+2026-10-15 11:12:15,506 | INFO | Player names entered: X=sdsds; O=sdsdsds.
+2026-10-15 11:12:15,506 | INFO | Started pvp match: X=sdsds, O=sdsdsds, difficulty=Medium.
+2026-10-15 11:12:16,446 | INFO | Move by sdsds (X) at cell 5.
+2026-10-15 11:12:18,473 | INFO | Move by sdsdsds (O) at cell 0.
+2026-10-15 11:12:19,789 | INFO | Move by sdsds (X) at cell 4.
+2026-10-15 11:12:21,679 | INFO | Move by sdsdsds (O) at cell 3.
+2026-10-15 11:12:22,979 | INFO | Move by sdsds (X) at cell 6.
+2026-10-15 11:12:24,476 | INFO | Move by sdsdsds (O) at cell 2.
+2026-10-15 11:12:25,488 | INFO | Move by sdsds (X) at cell 1.
+2026-10-15 11:12:26,735 | INFO | Move by sdsdsds (O) at cell 7.
+2026-10-15 11:12:27,871 | INFO | Move by sdsds (X) at cell 8.
+2026-10-15 11:12:27,873 | INFO | Match saved: mode=pvp, X=sdsds, O=sdsdsds, result=draw, moves=9
+2026-10-15 11:12:30,651 | INFO | Returned to main menu.
+2026-10-15 11:12:31,844 | INFO | Opened history screen.
+2026-10-15 11:12:34,091 | INFO | Returned to main menu.
+2026-10-15 11:12:34,157 | INFO | Opened history screen.
+2026-10-15 11:12:34,920 | INFO | Returned to main menu.
+2026-10-15 11:12:36,289 | INFO | Opened activity screen.
+2026-10-15 11:12:36,870 | INFO | Returned to main menu.
+2026-10-15 11:12:37,715 | INFO | Opened leaderboard screen.
+2026-10-15 11:12:38,176 | INFO | Returned to main menu.
+2026-10-15 11:12:38,718 | INFO | Opened leaderboard screen.
+2026-10-15 11:12:40,183 | INFO | Returned to main menu.
+2026-10-15 11:12:42,188 | INFO | Opened history screen.
+2026-10-15 11:12:42,537 | INFO | Returned to main menu.
+2026-10-15 11:12:44,815 | INFO | Selected pvai mode; requesting player names.
+2026-10-15 11:12:47,094 | INFO | Returned to main menu.
+2026-10-15 11:12:49,636 | INFO | Application closed.
+2026-10-15 11:13:49,359 | INFO | Application launched.
+2026-10-15 11:13:56,634 | INFO | Selected pvai mode; requesting player names.
+2026-10-15 11:14:01,217 | INFO | Returned to main menu.
+2026-10-15 11:14:04,676 | INFO | Application closed.
+2026-10-15 12:13:24,816 | INFO | Application launched.
+2026-10-15 12:13:29,848 | INFO | Selected pvai mode; requesting player names.
+2026-10-15 12:13:33,668 | INFO | Returned to main menu.
+2026-10-15 12:13:38,102 | INFO | Selected pvp mode; requesting player names.
+2026-10-15 12:13:39,350 | INFO | Returned to main menu.
+2026-10-15 12:13:40,256 | INFO | AI difficulty changed to Hard.
+2026-10-15 12:13:40,990 | INFO | AI difficulty changed to Easy.
+2026-10-15 12:13:43,278 | INFO | Opened history screen.
+2026-10-15 12:13:44,310 | INFO | Returned to main menu.
+2026-10-15 12:13:45,174 | INFO | Opened leaderboard screen.
+2026-10-15 12:13:46,451 | INFO | Returned to main menu.
+2026-10-15 12:13:48,114 | INFO | Application closed.

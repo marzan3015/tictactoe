@@ -1,0 +1,37 @@
+{
+  "You": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0,
+    "matches": 4,
+    "points": 3
+  },
+  "Computer (Medium)": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "matches": 1,
+    "points": 3
+  },
+  "Player 2": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0,
+    "matches": 2,
+    "points": 0
+  },
+  "Player 1": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0,
+    "matches": 2,
+    "points": 6
+  },
+  "Computer (Easy)": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0,
+    "matches": 3,
+    "points": 6
+  }
+}

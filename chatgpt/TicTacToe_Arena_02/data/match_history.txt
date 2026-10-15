@@ -1,0 +1,2 @@
+2026-10-15T11:10:31+06:00 | mode=pvai | X=Marzan | O=AI | result=draw | winner=Draw | moves=9 | duration=18.7s
+2026-10-15T11:12:27+06:00 | mode=pvp | X=sdsds | O=sdsdsds | result=draw | winner=Draw | moves=9 | duration=12.4s
