@@ -1,0 +1,8 @@
+# Username|Wins|Draws|Losses|Score|LastPlayed
+Grandmaster_AI|15|3|0|1545|2026-10-15 11:21
+CodeNinja|10|2|2|980|2026-10-15 11:21
+RetroGamer|7|4|3|680|2026-10-15 11:21
+Challenger_One|4|1|4|385|2026-10-15 11:21
+Novice_Player|1|1|3|115|2026-10-15 11:21
+Marzan|0|1|0|15|2026-10-15 11:22
+Mimo|0|1|0|15|2026-10-15 11:22

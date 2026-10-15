@@ -1,0 +1,6 @@
+{
+  "name": "Pygame Tic-Tac-Toe Pro",
+  "description": "Complete playable Tic-Tac-Toe game with full Pygame source files, recursive Minimax AI, animations, procedural audio, persistent leaderboard, and PyInstaller .exe compiler guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
